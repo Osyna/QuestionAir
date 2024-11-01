@@ -1,0 +1,15 @@
+Je vais te donner une note et des mots-clés suggérés.
+Génère exactement 5 questions QCM en suivant STRICTEMENT le format imposé.
+
+MOTS-CLÉS SUGGÉRÉS:
+{suggested_keywords}
+
+CONTENU DE LA NOTE:
+----------------
+{content}
+----------------
+
+RAPPEL DU FORMAT OBLIGATOIRE:
+| $SUBJECT | [$KW1,$KW2] | $ID | $QUESTION | "QCM" | {{"A":"$CHOICE1","B":"$CHOICE2","C":"$CHOICE3","D":"$CHOICE4"}} | ["$CORRECT_LETTER"] |
+
+RETOURNE UNIQUEMENT LES 5 LIGNES DE QUESTIONS, RIEN D'AUTRE.
