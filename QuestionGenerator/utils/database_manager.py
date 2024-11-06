@@ -2,7 +2,7 @@ import sqlite3
 import json
 import random
 from typing import List, Optional, Dict
-from qtype import Question
+from utils.qtype import Question
 from datetime import datetime
 
 
