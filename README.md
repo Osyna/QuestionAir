@@ -205,8 +205,6 @@ npm test
 - LLaMA team for the language model
 - Ollama team for the model serving infrastructure
 - spaCy team for the French language model
-- All contributors who have helped shape this project
-
 
 
 ## 🔮 Future Improvements
